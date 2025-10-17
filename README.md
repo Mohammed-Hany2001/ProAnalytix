@@ -1,4 +1,4 @@
-# 📊 roAnalytix Dashboard – Power BI
+# 📊 ProAnalytix Dashboard – Power BI
 
 ## 🧩 Overview
 This project focuses on analyzing and visualizing **sales performance data** using **Microsoft Power BI**.  
@@ -54,5 +54,5 @@ Delivered a **clean and interactive dashboard** that:
 **Mohamed Hany**  
 Data Analyst | Power BI | Python | SQL  
 📍 Egypt  
-📧 mohamedhany@example.com  
-🔗 [LinkedIn Profile](https://linkedin.com/in/mohamedhany)
+📧 mhany8263@gmail.com  
+🔗 [LinkedIn Profile]([https://linkedin.com/in/mohamedhany](https://www.linkedin.com/in/mohammed-hany-8819b1362/recent-activity/all/))
