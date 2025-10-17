@@ -55,4 +55,4 @@ Delivered a **clean and interactive dashboard** that:
 Data Analyst | Power BI | Python | SQL  
 📍 Egypt  
 📧 mhany8263@gmail.com  
-🔗 [LinkedIn Profile]([https://linkedin.com/in/mohamedhany](https://www.linkedin.com/in/mohammed-hany-8819b1362/recent-activity/all/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-hany-8819b1362/recent-activity/all/) 
