@@ -56,3 +56,4 @@ Data Analyst | Power BI | Python | SQL
 📍 Egypt  
 📧 mhany8263@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-hany-8819b1362/recent-activity/all/) 
+![Dashboard Preview](images/dashboard1.png)
